@@ -1,0 +1,13 @@
+You will need
+1x 330 Ohm resistor, 1/4 Watt min 
+1x LED
+5x jumper wires (arduino type aka dupont connector)
+1x or more photeresistors
+1x Ambient light sensor. Optional. 
+
+
+Also, if you do not already have them
+Breadboard
+Rasberry Pi Pico
+USB micro to USB for the Pico
+

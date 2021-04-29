@@ -1,3 +1,7 @@
+This program pulsates a LED and then reads an input through the ADC that yields a 16 bit digital output on your computer.
+I used photoresistors, but any analog transducer should work. 
+
+
 You will need
 1x 330 Ohm resistor, 1/4 Watt min 
 1x LED
